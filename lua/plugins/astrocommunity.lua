@@ -7,7 +7,6 @@ return {
   { import = "astrocommunity.completion.copilot-lua" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.tailwindcss" },
-  { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.typescript" },
   { -- further customize the options set by the community
     "zbirenbaum/copilot.lua",
